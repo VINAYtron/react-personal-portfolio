@@ -4,4 +4,4 @@
 * Working Contact Form
 
 ### Demo - Deployed over Netlify 
-* https://movie-info-appvinay.netlify.app/
+* https://portfolio-appvinay.netlify.app/
