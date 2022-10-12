@@ -37,17 +37,18 @@ button {
   cursor: pointer;
   background: #673de6;
   color: #fff;
-  transition: all 0.3s linear;
+  transition: all 0.3s ease-in-out;
 }
 
-button:hover{
+button:hover {
   background-color: rgba(155, 36, 184, 0.753);
   color: #fff;
 }
 
 .box svg {
   display: inline-block;
-  width: 2.5rem;
+  width: 5rem;
+  font-size: 5rem;
   height: 2.5rem;
 }
 
@@ -55,6 +56,7 @@ button:hover{
   color: #fff;
   background-color: black;
   border-radius: 0.5rem;
+  transition: all 0.5s ease;
 }
 
 .box .mail-box {
