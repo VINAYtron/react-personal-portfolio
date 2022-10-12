@@ -36,13 +36,8 @@ const Contact = () => {
       </div>
 
       <span className="mail-box">
-        <a
-          href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
-          target="_blank" rel="noreferrer"
-        >
-          <MailIcon className="icons" />
-          {/* vinaypatill1010@gmail.com */}
-        </a>
+        <MailIcon className="icons" />
+        vinaypatill1010@gmail.com
       </span>
     </div>
   );
